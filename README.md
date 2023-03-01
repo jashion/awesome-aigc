@@ -1,0 +1,2 @@
+# awesome-aigc
+Awesome AIGC
