@@ -1,2 +1,2 @@
-# awesome-aigc
-Awesome AIGC
+# Awesome AIGC
+
